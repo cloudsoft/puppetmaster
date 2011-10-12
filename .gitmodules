@@ -1,0 +1,3 @@
+[submodule "modules/puppetlabs-nginx"]
+	path = modules/puppetlabs-nginx
+	url = git://github.com/puppetlabs/puppetlabs-nginx.git
